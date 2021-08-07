@@ -1,0 +1,9 @@
+package ferhat1;
+
+public class ferhat11 {
+
+	public static void main(String[] args) {
+		System.out.println("1");
+	}
+
+}
